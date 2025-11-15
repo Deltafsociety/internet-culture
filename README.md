@@ -1,6 +1,6 @@
 
-# ** Internet Culture Guide ***
----
+# **Internet Culture Guide**
+
 
 #  **Repo Structure**
 
@@ -28,11 +28,6 @@ internet-culture-guide/
       └── subcultures.md
 ```
 
-Each page can briefly explain concepts in a clear, neutral, educational tone.
-
----
-
-#  **README.md (Copy-Paste Template)**
 
 ## **Internet Culture Guide**
 
