@@ -1,6 +1,8 @@
 
 # **Internet Culture Guide**
 
+# **IMPORTANT** : use the wiki page to read the content
+
 
 #  **Repo Structure**
 
